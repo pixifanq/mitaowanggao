@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixifanq.github.io/mitaowanggao/sitemap.xml
